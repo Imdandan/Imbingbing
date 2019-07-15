@@ -1,7 +1,4 @@
-Hello
-everyone
-I
-am
-version
+大家好
+我是
+版本
 5
-
